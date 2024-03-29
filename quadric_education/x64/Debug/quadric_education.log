@@ -1,0 +1,5 @@
+﻿  main.cpp
+  quadric_education.cpp
+D:\prgrms vs c++\quadric_education\quadric_education\quadric_education.cpp(6,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  quadric_education.vcxproj -> D:\prgrms vs c++\quadric_education\x64\Debug\quadric_education.exe
